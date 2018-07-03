@@ -1,4 +1,4 @@
-function allLongestStrings(inputArray) {
+const allLongestStrings = (inputArray) => {
     const lengths = inputArray.map(word => word.length)
     const longestWordLngt = Math.max(...lengths)
 

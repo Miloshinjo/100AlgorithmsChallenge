@@ -1,5 +1,5 @@
 
-function absoluteValuesSumMinimization(a) {
+const absoluteValuesSumMinimization = (a) => {
   const isEven = a.length % 2 === 0
 
   return isEven ? a[a.length / 2 - 1] : a[(a.length - 1) / 2]

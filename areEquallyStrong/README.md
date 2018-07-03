@@ -1,4 +1,3 @@
-### Check Out My [YouTube Channel](https://www.YouTube.com/CodingTutorials360)
 
 ##### Algorithm Challenge Available At [CodeFights](https://codefights.com/arcade/intro/level-5/g6dc9KJyxmFjB98dL)
 ---
@@ -21,7 +20,7 @@ areEquallyStrong(yourLeft, yourRight, friendsLeft, friendsRight) = false.
 -   None
 
 **Input/Output**
- 
+
 - **[time limit] 4000ms (js)**
 - **[input] integer yourLeft**
 

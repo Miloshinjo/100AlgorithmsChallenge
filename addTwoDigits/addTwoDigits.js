@@ -1,4 +1,4 @@
-function addTwoDigits(num) {
+const addTwoDigits = (num) => {
 
   const formattedNum = num
   .toString()
